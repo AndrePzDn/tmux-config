@@ -51,7 +51,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 # Copy configuration file to home directory
 
-echo .tmux.conf >> ~/.tmux.conf
+cp ./.tmux.conf ~/.tmux.conf
 
 # Install plugins
 
